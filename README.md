@@ -2,7 +2,7 @@
 
 <br/>
 
-**`"Desenvolvedor FullStack"`**
+## **`"Desenvolvedor FullStack"`**
 
 Bem vindo !!!<br/>
 Sou Alessandro Soares, tenho 50 anos e sou natural de Itabuna-BA, um município brasileiro no estado da Bahia.<br/>
@@ -158,12 +158,12 @@ Obrigado!!!
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
     />
     <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+        align="left" 
+        alt="Laravel" 
+        title="Laravel"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
     <img 
         align="left" 
@@ -235,7 +235,6 @@ Obrigado!!!
         title="Microsoft SQL Server"
         width="30px" 
         style="padding-right: 10px;" 
-        style="padding-top: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
     />
 </p>

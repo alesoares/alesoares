@@ -158,12 +158,12 @@ Obrigado!!!
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
     />
     <img 
-        align="left" 
-        alt="Laravel" 
-        title="Laravel"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
     <img 
         align="left" 
@@ -238,8 +238,9 @@ Obrigado!!!
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
     />
 </p>
+<br/>
 
----
+<hr>
 
 <br/>
 
@@ -273,7 +274,7 @@ Obrigado!!!
 
 <br/>
 
----
+<hr>
 
 <picture style="border: 6px solid write;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">

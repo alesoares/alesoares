@@ -279,3 +279,13 @@ Obrigado!!!
         src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true"
     />  
 </p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
+    <img 
+        align="left"
+        style="padding-top: 70px;" 
+        alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
+</picture>
+

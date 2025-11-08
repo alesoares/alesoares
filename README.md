@@ -61,16 +61,14 @@ Obrigado!!!
     </a>
 </p>
 
----
-
-<br/>
+## 
 
 ### 🤖 Linguagens e Tecnologias
 
 <br/>
 
 <p align="left" 
-   style="display:flex;  border: 6px solid write;
+   style="display:flex; 
           flex-wrap: wrap; 
           text-align: center; 
           flex-direction: row; 
@@ -238,51 +236,56 @@ Obrigado!!!
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
     />
 </p>
-<br/>
-
-<hr>
-
-![Programador](https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true)
 
 <br/>
+
+#
 
 ### 📊 Estatísticas
 
 <br/>
 
-<p align="left" 
-   style="display:flex; 
+<p align="left"
+   style="display:flex;      
           flex-wrap: wrap; 
           text-align: center; 
           flex-direction: row; 
-          align-items: center; 
-          justify-content: space-around";
+          justify-content: space-between";
 >
     <img 
         align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
+        alt="GitHub Stats"
+        title="GitHub Stats"
+        width="435"
+        height="300" 
+        style="padding-right: 7px;" 
         src="https://github-readme-stats.vercel.app/api?username=alesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
         align="left" 
         alt="GitHub Stats" 
+        title="Técnologias mais usadas"
+        width="285"
         height="200" 
-        style="padding-right: 10px;" 
+        style="padding-right: 7px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    />  
+    <img 
+        align="left" 
+        alt="Programador GitHub"
+        title="Programador GitHub"
+        width="240"
+        height="200" 
+        style="padding-right: 7px;" 
+        src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true"
     />    
 </p>
 
-<br/>
-
-<br/>
-
-<picture style="border: 6px solid write;">
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
     <img 
         align="left"
-        style="padding-top: 50px;" 
+        style="padding-top: 70px;" 
         alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
 </picture>

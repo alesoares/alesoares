@@ -254,8 +254,8 @@ Obrigado!!!
         align="left" 
         alt="GitHub Stats"
         title="GitHub Stats"
-        width="435"
-        height="300" 
+        width="365"
+        height="200" 
         style="padding-right: 7px;" 
         src="https://github-readme-stats.vercel.app/api?username=alesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
@@ -263,19 +263,16 @@ Obrigado!!!
         align="left" 
         alt="GitHub Stats" 
         title="Técnologias mais usadas"
-        width="285"
+        width="240"
         height="200" 
         style="padding-right: 7px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
     />  
-</p>
-
-<p>
     <img 
         align="center" 
         alt="Programador GitHub"
         title="Programador GitHub"
-        width="240"
+        width="200"
         height="200" 
         style="padding-right: 7px;
                gap: 30px;" 

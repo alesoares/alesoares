@@ -241,7 +241,8 @@ Obrigado!!!
 <br/>
 
 <hr>
-
+![Programador](https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true)
+![Programador](https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true)
 <br/>
 
 ### 📊 Estatísticas

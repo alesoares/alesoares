@@ -255,8 +255,9 @@ Obrigado!!!
           flex-direction: row; 
           align-items: center; 
           justify-content: space-around";
-    <hr>
+   
 >
+<hr>
     <img 
         align="left" 
         alt="GitHub Stats" 

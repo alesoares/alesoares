@@ -9,7 +9,7 @@ Sou Alessandro Soares, tenho 50 anos e sou natural de Itabuna-BA, um município 
 Atualmente, estou pós-graduado em **Cloud Computing** pela Faculdade FaCiência, no Polo Cloud Treinamentos; onde participei e desenvolvi projetos reais na **nuvem da AWS.**<br/>
 Sou bacharelado em **Ciência da Computação** pela Universidade Cruzeiro do Sul - "[UNICSUL](https://www.cruzeirodosul.edu.br/)" - Polo São Miguel Paulista; concluí o ensino médio no E.E. Dep. Silva Prado.<br/>
 Sou apaixonado por tecnologia e, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** EAD na Escola Técnica - "[FAT](https://escolatecnicafat.org.br/)" - (Fundação de Apoio à Tecnologia).<br/>
-Estou aberto a oportunidades existentes no mercado de trabalho onde eu possa apreender cada vez, e colaborar com equipes de desenvolvimento em projetos futuros.<br/>
+Estou aberto às oportunidades existentes no mercado de trabalho onde eu possa apreender cada vez e colaborar com equipes de desenvolvimento em projetos futuros.<br/>
 Também podemos nos conectar através do meu Linkedin "[Alessandro Soares](https://www.linkedin.com/in/alessandro-bispo-soares/)" ou, se preferir me siga através do meu canal no YouTube "[Alessandro Soares](https://www.youtube.com/channel/UCh_xNWQaYXawqBRVTy_Zr2g?sub_confirmation=1)", ou ainda pelo meu Instagram "[Alessandro Soares](https://www.instagram.com/alesoares1975/)",
 mas, se preferir no GitHub clicando no botão de seguidores logo abaixo.<br/>
 Obrigado!!!

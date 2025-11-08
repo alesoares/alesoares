@@ -51,6 +51,13 @@ Obrigado!!!
             src="https://custom-icon-badges.demolab.com/badge/-gmail?color=ffffff&labelColor=ffffff&label=Gmail&style=for-the-badge&logo=gmail"
         />
     </a>
+    <a href="https://www.linkedin.com/in/alessandro-bispo-soares/">
+        <img 
+            alt="linkedin " 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-linkedin?logo=linkedin-linkedin&color=004d99&label=Linkedin&labelColor=004d99&style=for-the-badge"            
+        />
+    </a>
 </p>
 
 ---

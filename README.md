@@ -80,7 +80,7 @@ Obrigado!!!
         alt="HTML"
         title="HTML" 
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10 px;" 
+        style="padding-right: 10px; margin-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
@@ -156,12 +156,12 @@ Obrigado!!!
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
     />
     <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10 px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+        align="left" 
+        alt="Laravel" 
+        title="Laravel"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 10 px;"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
     <img 
         align="left" 
@@ -224,7 +224,7 @@ Obrigado!!!
         alt="PostgreSQL" 
         title="PostgreSQL"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10 px;"  
+        style="padding-right: 10px; margim-bottom: 10 px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
     />
     <img 

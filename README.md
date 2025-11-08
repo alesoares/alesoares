@@ -255,6 +255,7 @@ Obrigado!!!
           flex-direction: row; 
           align-items: center; 
           justify-content: space-around";
+    <hr>
 >
     <img 
         align="left" 
@@ -270,7 +271,6 @@ Obrigado!!!
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
     /> 
-<hr>
 </p>
 
 <br/>

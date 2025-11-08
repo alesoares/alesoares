@@ -70,6 +70,7 @@ Obrigado!!!
 <p align="left" 
    style="display:flex; 
           flex-wrap: wrap; 
+          gap: 75px;
           text-align: center; 
           flex-direction: row; 
           align-items: center; 

@@ -243,8 +243,6 @@ Obrigado!!!
 
 ### 📊 Estatísticas
 
-<br/>
-
 <p align="left"
    style="display:flex;      
           flex-wrap: wrap; 
@@ -270,22 +268,17 @@ Obrigado!!!
         style="padding-right: 7px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
     />  
+</p>
+
+<p>
     <img 
-        align="left" 
+        align="center" 
         alt="Programador GitHub"
         title="Programador GitHub"
         width="240"
         height="200" 
-        style="padding-right: 7px;" 
+        style="padding-right: 7px;
+               gap: 30px;" 
         src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true"
-    />    
+    />  
 </p>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
-    <img 
-        align="left"
-        style="padding-top: 70px;" 
-        alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
-</picture>

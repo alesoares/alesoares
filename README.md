@@ -257,7 +257,6 @@ Obrigado!!!
           justify-content: space-around";
    
 >
-<hr>
     <img 
         align="left" 
         alt="GitHub Stats" 
@@ -271,7 +270,8 @@ Obrigado!!!
         height="200" 
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-    /> 
+    />
+    <hr>
 </p>
 
 <br/>

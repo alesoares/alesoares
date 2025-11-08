@@ -274,9 +274,6 @@ Obrigado!!!
 
 <br/>
 
- ***
-<hr>
-
 <br/>
 
 <picture style="border: 6px solid write;">

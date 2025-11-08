@@ -243,7 +243,6 @@ Obrigado!!!
 <hr>
 
 ![Programador](https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true)
-![Programador](https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true)
 
 <br/>
 
@@ -272,7 +271,7 @@ Obrigado!!!
         height="200" 
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-    />
+    />    
 </p>
 
 <br/>

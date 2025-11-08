@@ -80,7 +80,7 @@ Obrigado!!!
         alt="HTML"
         title="HTML" 
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
@@ -88,7 +88,7 @@ Obrigado!!!
         alt="CSS" 
         title="CSS"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
@@ -96,7 +96,7 @@ Obrigado!!!
         alt="JavaScript" 
         title="JavaScript"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
@@ -104,7 +104,7 @@ Obrigado!!!
         alt="TypeScript"
         title="TypeScript" 
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
@@ -112,7 +112,7 @@ Obrigado!!!
         alt="React"
         title="React" 
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
@@ -120,7 +120,7 @@ Obrigado!!!
         alt="Next.js" 
         title="Next.js"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
     <img 
@@ -128,7 +128,7 @@ Obrigado!!!
         alt="Bootstrap"
         title="Bootstrap" 
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
     <img 
@@ -144,7 +144,7 @@ Obrigado!!!
         alt="SASS" 
         title="SASS"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
     />
     <img 
@@ -152,7 +152,7 @@ Obrigado!!!
         alt="PHP" 
         title="PHP"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
     />
     <img 
@@ -160,7 +160,7 @@ Obrigado!!!
     alt="Laravel" 
     title="Laravel"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-bottom: 10 px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
     <img 
@@ -168,7 +168,7 @@ Obrigado!!!
         alt="JQuery" 
         title="JQuery"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
     />
     <img 
@@ -176,7 +176,7 @@ Obrigado!!!
         alt="Git" 
         title="Git"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
@@ -184,7 +184,7 @@ Obrigado!!!
         alt="Python" 
         title="Python"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
@@ -192,7 +192,7 @@ Obrigado!!!
         alt="Java" 
         title="Java"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
     <img 
@@ -200,7 +200,7 @@ Obrigado!!!
         alt="Android" 
         title="Android"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
     />
     <img 
@@ -208,7 +208,7 @@ Obrigado!!!
         alt="SQLite" 
         title="SQLite"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
     />
     <img 
@@ -216,7 +216,7 @@ Obrigado!!!
         alt="MySQL" 
         title="MySQL"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
     /> 
     <img 
@@ -224,7 +224,7 @@ Obrigado!!!
         alt="PostgreSQL" 
         title="PostgreSQL"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
     />
     <img 
@@ -232,7 +232,7 @@ Obrigado!!!
         alt="MicrosoftSQLServer" 
         title="Microsoft SQL Server"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; padding-bottom: 10 px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
     />
 </p>

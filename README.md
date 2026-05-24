@@ -337,42 +337,28 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 
 <br clear="left"/>
 
-<div align="left"
-   style="display:flex;
-          flex-wrap: wrap;
-          text-align: center;
-          flex-direction: row;
-          justify-content: space-between";
->
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        title="GitHub Stats"
-        width=400 
-        height="200" 
-        style="padding-right: 7px; padding-bottom: 10px;" 
-        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"
-    />
-    <img 
-        align="center" 
-        alt="Programador GitHub"
-        title="Programador GitHub"
-        width="400"
-        height="200" 
-        style="padding-right: 7px; padding-bottom: 10px; border-radius: 10px";
-        src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true"
-    />
-</div>
+<!-- BLOCO 2: LINGUAGENS E O GIF ANIMADO COM BORDAS ARREDONDADAS -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="49%" align="left" valign="top">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"" width="100%" alt="Top Languages" title="Top Languages" />
+    </td>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível -->
+    <td width="49%" align="right" valign="top">
+      <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
+    </td>
+  </tr>
+</table>
 
 <br clear="left"/>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
-    <img 
-        align="left"
-        style="padding-top: 70px;" 
-        alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- BLOCO 3: A ANIMAÇÃO DA COBRINHA AJUSTADA LOGO ABAIXO -->
+<div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
+      <img src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
+  </picture>
+</div>
 
 <br clear="left"/>

@@ -350,9 +350,9 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível -->
-    <td width="49%" align="right" valign="middle">
-        <p align="center" valign="middle" style="">
-            <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true&border-radius=10p" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
+    <td width="47%" align="right" valign="middle">
+        <p align="center" valign="middle" style="border-radius: 10px;">
+            <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true&border-radius=10" width="100%" alt="Programador GitHub" title="Programador GitHub" />
         </p>
     </td>
   </tr>

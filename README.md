@@ -325,7 +325,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <!-- BLOCO 1: GERAIS E STREAK ALINHADOS PERFEITAMENTE LADO A LADO -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="46%" align="left" valign="middle">
+    <td width="47%" align="left" valign="middle">
         <p align="center" valign="middle">
             <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
         </p>

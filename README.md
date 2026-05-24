@@ -331,7 +331,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="45%" align="right" valign="middle">
+    <td width="48%" align="right" valign="middle">
         <p align="center" valign="middle">
             <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
         </p>

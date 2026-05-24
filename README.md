@@ -335,35 +335,6 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
   </tr>
 </table>
 
-
-
-<div align="left"
-   style="display:flex;
-          flex-wrap: wrap;
-          text-align: center;
-          flex-direction: row;
-          justify-content: space-between";
->
-  <img
-        align="left" 
-        alt="GitHub Stats" 
-        title="GitHub Stats"
-        width="400"
-        height="200"
-        style="padding-right: 7px; padding-bottom: 10px;" 
-        src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10"
-    />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        title="GitHub Stats"
-        width="400"
-        height="200" 
-        style="padding-right: 7px; padding-bottom: 10px;" 
-        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10"
-    />
-</div>
-
 <br clear="left"/>
 
 <div align="left"

@@ -319,43 +319,26 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <br clear="left"/>
 
 ### 📊 Estatísticas
+### 📊 Estatísticas
 
-<!-- BLOCO 1: GERAIS E STREAK ALINHADOS PERFEITAMENTE LADO A LADO -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="49%" align="left" valign="top">
-      <img src="https://vercel.app" width="100%" alt="GitHub Stats" title="GitHub Stats" />
-    </td>
-    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="49%" align="right" valign="top">
-      <img src="https://vercel.app" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://demolab.com" width="48%" style="max-width: 100%; border-radius: 10px;" alt="GitHub Streak Stats" />
+  <img src="https://vercel.app" width="48%" style="max-width: 100%; border-radius: 10px;" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" style="max-width: 100%; border-radius: 10px;" alt="Linguagens mais usadas" />
+  <img src="https://github.com" width="48%" style="max-width: 100%; border-radius: 10px;" alt="Programador GitHub" />
+</p>
 
 <br />
 
-<!-- BLOCO 2: LINGUAGENS E O GIF ANIMADO COM BORDAS ARREDONDADAS -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="49%" align="left" valign="top">
-      <img src="https://vercel.app" width="100%" alt="Top Languages" title="Top Languages" />
-    </td>
-    <td width="2%"></td> <!-- Respiro milimétrico invisível -->
-    <td width="49%" align="right" valign="top">
-      <img src="https://github.com" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- BLOCO 3: A ANIMAÇÃO DA COBRINHA AJUSTADA LOGO ABAIXO -->
-<div align="center">
+<p align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-      <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-      <img src="https://githubusercontent.com" width="100%" alt="GitHub Contribution Grid Snake Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img src="https://githubusercontent.com" width="100%" alt="Animação da cobra" />
   </picture>
-</div>
+</p>
 
+<br clear="left"/>

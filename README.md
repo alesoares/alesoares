@@ -316,6 +316,8 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
     />
 </div>
 
+<br clear="left"/>
+
 ### 📊 Estatísticas
 
 <div align="left"

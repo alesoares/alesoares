@@ -325,13 +325,13 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <!-- BLOCO 1: GERAIS E STREAK ALINHADOS PERFEITAMENTE LADO A LADO -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="49%" align="left" valign="top">
+    <td width="49%" align="left" valign="middle">
         <p align="center" valign="middle">
             <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="49%" align="right" valign="top">
+    <td width="49%" align="right" valign="middle">
         <p align="center" valign="middle">
             <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
         </p>
@@ -344,11 +344,11 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <!-- BLOCO 2: LINGUAGENS E O GIF ANIMADO COM BORDAS ARREDONDADAS -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="49%" align="left" valign="top">
+    <td width="49%" align="left" valign="middle">
       <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"" width="100%" alt="Top Languages" title="Top Languages" />
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível -->
-    <td width="49%" align="right" valign="top">
+    <td width="49%" align="right" valign="middle">
       <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
     </td>
   </tr>

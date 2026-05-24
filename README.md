@@ -330,7 +330,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
             <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
         </p>
     </td>
-    <td width="4%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="49%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
@@ -349,7 +349,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
             <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"" width="100%" alt="Top Languages" title="Top Languages" />
         </p>
     </td>
-    <td width="4%"></td> <!-- Respiro milimétrico invisível -->
+    <td width="2%"></td> <!-- Respiro milimétrico invisível -->
     <td width="47%" align="right" valign="middle">
         <p align="center" valign="middle" style="border-radius: 10px;">
             <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true&border_radius=10" width="100%" alt="Programador GitHub" title="Programador GitHub" />

@@ -319,26 +319,89 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <br clear="left"/>
 
 ### 📊 Estatísticas
-### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://demolab.com" width="48%" style="max-width: 100%; border-radius: 10px;" alt="GitHub Streak Stats" />
-  <img src="https://vercel.app" width="48%" style="max-width: 100%; border-radius: 10px;" alt="GitHub Stats" />
-</p>
+<br clear="left"/>
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" style="max-width: 100%; border-radius: 10px;" alt="Linguagens mais usadas" />
-  <img src="https://github.com" width="48%" style="max-width: 100%; border-radius: 10px;" alt="Programador GitHub" />
-</p>
+<!-- BLOCO 1: GERAIS E STREAK ALINHADOS PERFEITAMENTE LADO A LADO -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="49%" align="left" valign="top">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+    </td>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="49%" align="right" valign="top">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<br />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img src="https://githubusercontent.com" width="100%" alt="Animação da cobra" />
-  </picture>
-</p>
+
+<div align="left"
+   style="display:flex;
+          flex-wrap: wrap;
+          text-align: center;
+          flex-direction: row;
+          justify-content: space-between";
+>
+  <img
+        align="left" 
+        alt="GitHub Stats" 
+        title="GitHub Stats"
+        width="400"
+        height="200"
+        style="padding-right: 7px; padding-bottom: 10px;" 
+        src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10"
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        title="GitHub Stats"
+        width="400"
+        height="200" 
+        style="padding-right: 7px; padding-bottom: 10px;" 
+        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10"
+    />
+</div>
+
+<br clear="left"/>
+
+<div align="left"
+   style="display:flex;
+          flex-wrap: wrap;
+          text-align: center;
+          flex-direction: row;
+          justify-content: space-between";
+>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        title="GitHub Stats"
+        width=400 
+        height="200" 
+        style="padding-right: 7px; padding-bottom: 10px;" 
+        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"
+    />
+    <img 
+        align="center" 
+        alt="Programador GitHub"
+        title="Programador GitHub"
+        width="400"
+        height="200" 
+        style="padding-right: 7px; padding-bottom: 10px; border-radius: 10px";
+        src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true"
+    />
+</div>
+
+<br clear="left"/>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
+    <img 
+        align="left"
+        style="padding-top: 70px;" 
+        alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alesoares/alesoares/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br clear="left"/>

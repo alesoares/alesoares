@@ -326,11 +326,15 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="49%" align="left" valign="top">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+        <p align="center" valign="middle">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+        </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="49%" align="right" valign="top">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
+        <p align="center" valign="middle">
+            <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
+        </p>
     </td>
   </tr>
 </table>

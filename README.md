@@ -345,11 +345,15 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="49%" align="left" valign="middle">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"" width="100%" alt="Top Languages" title="Top Languages" />
+        <p align="center" valign="middle" style="padding-top: 25px;">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alesoares&langs_count=12&layout=compact&theme=highcontrast&border_radius=10"" width="100%" alt="Top Languages" title="Top Languages" />
+        </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível -->
     <td width="49%" align="right" valign="middle">
-      <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
+        <p align="center" valign="middle" style="">
+            <img src="https://github.com/alesoares/alesoares/blob/main/code.gif?raw=true&border-radius=10p" width="100%" style="border-radius: 10px;" alt="Programador GitHub" title="Programador GitHub" />
+        </p>
     </td>
   </tr>
 </table>

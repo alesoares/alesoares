@@ -95,7 +95,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="HTML"
         title="HTML" 
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
@@ -103,7 +103,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="CSS" 
         title="CSS"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
@@ -111,7 +111,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="JavaScript" 
         title="JavaScript"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
@@ -119,7 +119,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="TypeScript"
         title="TypeScript" 
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
@@ -127,7 +127,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="React"
         title="React" 
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
@@ -135,7 +135,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="NodeJS" 
         title="NodeJS"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
     />
     <img 
@@ -143,7 +143,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Tailwind" 
         title="Tailwind"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
     />
     <img 
@@ -151,7 +151,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Java" 
         title="Java"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
     <img 
@@ -159,7 +159,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Spring" 
         title="Spring"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
     <img 
@@ -167,7 +167,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Docker" 
         title="Docker"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
     />
     <img 
@@ -175,7 +175,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Redis" 
         title="Redis"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
     />    
     <img 
@@ -183,7 +183,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="N8N" 
         title="Automações de Processos com n8n"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/n8n.svg"
     />   
     <img 
@@ -191,7 +191,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Amazon Web Services" 
         title="AWS - Amazon Web Services"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
          src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" 
     />    
     <img 
@@ -199,7 +199,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="API Swagger" 
         title="API Swagger"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
     />    
     <img 
@@ -207,7 +207,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="PostgreSQL" 
         title="PostgreSQL"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"  
+        style="padding-right: 10px; padding-bottom: 30px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
     />
     <img 
@@ -215,7 +215,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="MySQL" 
         title="MySQL"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
     /> 
     <img 
@@ -223,7 +223,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="MicrosoftSQLServer" 
         title="Microsoft SQL Server"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"  
+        style="padding-right: 10px; padding-bottom: 30px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
     />
     <img 
@@ -231,7 +231,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Next.js" 
         title="Next.js"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
     <img 
@@ -239,7 +239,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Bootstrap"
         title="Bootstrap" 
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10 px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
     <img 
@@ -247,7 +247,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="SASS" 
         title="SASS"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
     />
     <img 
@@ -255,7 +255,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="PHP" 
         title="PHP"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
     />
     <img 
@@ -263,7 +263,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Laravel" 
         title="Laravel"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"  
+        style="padding-right: 10px; padding-bottom: 30px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
     <img 
@@ -271,7 +271,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="JQuery" 
         title="JQuery"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"  
+        style="padding-right: 10px; padding-bottom: 30px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
     />
     <img 
@@ -279,7 +279,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Git" 
         title="Git"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"  
+        style="padding-right: 10px; padding-bottom: 30px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
@@ -287,7 +287,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Python" 
         title="Python"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
@@ -295,7 +295,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="Android" 
         title="Android"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;"
+        style="padding-right: 10px; padding-bottom: 30px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
     />
     <img 
@@ -303,7 +303,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="SQLite" 
         title="SQLite"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
     />
     <img 
@@ -311,7 +311,7 @@ Obrigado pela visita! Sinta-se livre para explorar meus repositórios e clicar n
         alt="API WhatsApp" 
         title="API WhatsApp"
         width="30px" 
-        style="padding-right: 10px; padding-bottom: 10px;" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://devicon-website.vercel.app/api/moodle/original.svg"
     />
 </div>

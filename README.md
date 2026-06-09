@@ -1,4 +1,4 @@
-# 🚀🏍️🧑‍💻 Alessandro Soares. 👨🏽‍💻🏍️🚀
+# 🚀🏍️🧑‍💻 Alessandro Soares | Founder & CTO @ San Soares Developers. 👨🏽‍💻🏍️🚀
 
 <br clear="left"/>
 
@@ -6,9 +6,10 @@
 
 Seja muito bem-vindo ao meu ecossistema de engenharia! 👋
 
-Sou Alessandro Soares, tenho 50 anos, natural de Itabuna-BA e atualmente radicado em São Paulo. Sou apaixonado por tecnologia, infraestrutura e pela arte de projetar softwares indestrutíveis. A minha jornada é marcada pela resiliência, pela prática diária no código e pela evolução contínua para entregar soluções de alto valor ao mercado corporativo.
+Sou Alessandro Soares, natural de Itabuna-BA e atualmente radicado em São Paulo. Atuo como Arquiteto de Software e especialista em Cloud Computing, dedicando minha jornada à arte de projetar arquiteturas indestrutíveis, ecossistemas backend robustos e plataformas SaaS resilientes prontas para o mercado corporativo internacional.
+A minha jornada é marcada pela resiliência, pela prática diária no código e pela evolução contínua para entregar soluções de alto valor ao mercado corporativo.
 
-Atualmente, lidero a operação tecnológica como **Founder & CTO na San Soares Developers**, onde transformo regras de negócio complexas em arquiteturas de software estáveis, ecossistemas backend robustos e plataformas SaaS resilientes.
+Lidero a operação tecnológica como **Founder & CTO na San Soares Developers**, onde transformo regras de negócio complexas em arquiteturas de software estáveis, ecossistemas backend robustos e plataformas SaaS resilientes, performáticas e escaláveis na nuvem.
 
 ---
 
@@ -18,6 +19,15 @@ Atualmente, lidero a operação tecnológica como **Founder & CTO na San Soares 
 - 🎓 **Bacharelado em Ciência da Computação** pela Universidade Cruzeiro do Sul (**UNICSUL** — Polo São Miguel Paulista).
 - 🎓 **Graduando em Técnico em Desenvolvimento de Sistemas** (EAD) pela Escola Técnica **FAT** (Fundação de Apoio à Tecnologia).
 - 🎓 **Graduando em Técnico em Informática para Internet** (EAD) pela Escola Técnica **FAT** (Fundação de Apoio à Tecnologia).
+
+---
+
+### 🪓 Últimos Marcos de Infraestrutura Consolidados (SaaS Core v2.0):
+
+*   **Isolamento Multitenant por DNA Criptográfico (UUID):** Implementação de segregação lógica implacável baseada em chaves UUID nativas no PostgreSQL 17 Alpine, garantindo que os dados de faturamento, estoque e PDV de diferentes franquias operem em isolamento absoluto.
+*   **Separação Absoluta de Escopos (Rigor Fiscal PJ):** Refatoração estrutural sob o princípio de Responsabilidade Única (SRP), isolando os metadados contábeis e fiscais das empresas (`tb_tenant` - CNPJ, Razão Social, Regime Tributário, IE e Inscrição Municipal) das credenciais de acesso de balcão.
+*   **Central de Auditoria e Blindagem Jurídica (LGPD/ECA):** Desenvolvimento de módulo de conformidade (`tb_tenant_policy_acceptance`) responsável por reter o histórico imutável de aceites de termos de uso, salvando logs de IP, navegador (User-Agent) e carimbo de data/hora (Timestamp) para segurança jurídica da holding.
+*   **Governança de Acesso Polimórfica:** Orquestração dinâmica de privilégios triplos (`isMasterUser`, `isAdminUser`, `isOperatorUser`) consumindo claims customizadas do Spring Security e tokens JWT, blindando a interface contra acessos não autorizados a relatórios financeiros e dados sensíveis de clientes.
 
 ---
 
